@@ -1,7 +1,7 @@
 # vscode-theme
 Theme configuration file for VSCode.
 
-'''json
+```json
 {
     "editor.tokenColorCustomizations": {
         "comments": "#fa49fa84",
@@ -186,4 +186,4 @@ Theme configuration file for VSCode.
         "terminal.background": "#0e0e0e"
     },
 }
-'''
+```
