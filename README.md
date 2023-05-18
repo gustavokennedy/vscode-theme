@@ -1,5 +1,4 @@
-# vscode-theme
-Theme configuration file for VSCode.
+# Theme configuration file for VSCode.
 
 ```json
 {
